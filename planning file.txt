@@ -1,0 +1,28 @@
+< near future
+
+	-testStuff.js (<08.06.19)
+		-Sandbox for testing
+		-complete project for implementation of tank game
+
+	-menu design
+		-Buttons embedded to canvas (Canvas Buttons)
+		-Add map selection
+	
+	-map creation
+		-add map image
+		-set polygons for barriers
+		-add danger zones - lose hp
+		-online = fetch, offline = blank
+			-LATER : option for map selection, bigger play area (smaller players)
+
+	-tank movement optimalisation
+		-move by sin
+		-aim with mouse
+		-optimize collision detection
+
+	-Bullet optimalisation
+		-after tank movement > shoot aim with mouse
+		-optimize collision detection
+		-add new features (homing bullets[Perk], fire bullets[Perk])
+
+
