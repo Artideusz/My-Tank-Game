@@ -1,0 +1,12 @@
+{
+	"map1":{
+		"mapName" : "Default Map 1",
+		"backgroundURL" : "src/map/backgrounds/map1.png",
+		"thumbailURL" : "src/map/backgrounds/tmap1.png"
+	},
+	"map2":{
+		"mapName" : "Default Map 2",
+		"backgroundURL" : "src/map/backgrounds/map2.png",
+		"thumbailURL" : "src/map/backgrounds/tmap2.png"
+	}
+}
